@@ -31,16 +31,3 @@ A modern, responsive portfolio website built with Next.js and Tailwind CSS, desi
 6. **Contact**: Form for potential clients or employers to reach out
 7. **Footer**: Additional links and information
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js 18.x or later
-- npm or yarn
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/portfolio.git
-   cd portfolio
